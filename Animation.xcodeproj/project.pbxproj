@@ -12,6 +12,13 @@
 		B2FB51901F9F6604003EB512 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2FB518E1F9F6604003EB512 /* Main.storyboard */; };
 		B2FB51921F9F6604003EB512 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2FB51911F9F6604003EB512 /* Assets.xcassets */; };
 		B2FB51951F9F6604003EB512 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2FB51931F9F6604003EB512 /* LaunchScreen.storyboard */; };
+		B2FB51A31F9F6612003EB512 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB519C1F9F6612003EB512 /* 1.gif */; };
+		B2FB51A41F9F6612003EB512 /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB519D1F9F6612003EB512 /* 2.gif */; };
+		B2FB51A51F9F6612003EB512 /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB519E1F9F6612003EB512 /* 3.gif */; };
+		B2FB51A61F9F6612003EB512 /* 4.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB519F1F9F6612003EB512 /* 4.gif */; };
+		B2FB51A71F9F6612003EB512 /* 5.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB51A01F9F6612003EB512 /* 5.gif */; };
+		B2FB51A81F9F6612003EB512 /* 6.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB51A11F9F6612003EB512 /* 6.gif */; };
+		B2FB51A91F9F6612003EB512 /* 7.gif in Resources */ = {isa = PBXBuildFile; fileRef = B2FB51A21F9F6612003EB512 /* 7.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		B2FB51911F9F6604003EB512 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2FB51941F9F6604003EB512 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2FB51961F9F6604003EB512 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2FB519C1F9F6612003EB512 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
+		B2FB519D1F9F6612003EB512 /* 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 2.gif; sourceTree = "<group>"; };
+		B2FB519E1F9F6612003EB512 /* 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3.gif; sourceTree = "<group>"; };
+		B2FB519F1F9F6612003EB512 /* 4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 4.gif; sourceTree = "<group>"; };
+		B2FB51A01F9F6612003EB512 /* 5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 5.gif; sourceTree = "<group>"; };
+		B2FB51A11F9F6612003EB512 /* 6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 6.gif; sourceTree = "<group>"; };
+		B2FB51A21F9F6612003EB512 /* 7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 7.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +73,13 @@
 				B2FB518E1F9F6604003EB512 /* Main.storyboard */,
 				B2FB51911F9F6604003EB512 /* Assets.xcassets */,
 				B2FB51931F9F6604003EB512 /* LaunchScreen.storyboard */,
+				B2FB519C1F9F6612003EB512 /* 1.gif */,
+				B2FB519D1F9F6612003EB512 /* 2.gif */,
+				B2FB519E1F9F6612003EB512 /* 3.gif */,
+				B2FB519F1F9F6612003EB512 /* 4.gif */,
+				B2FB51A01F9F6612003EB512 /* 5.gif */,
+				B2FB51A11F9F6612003EB512 /* 6.gif */,
+				B2FB51A21F9F6612003EB512 /* 7.gif */,
 				B2FB51961F9F6604003EB512 /* Info.plist */,
 			);
 			path = Animation;
@@ -123,9 +144,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2FB51A81F9F6612003EB512 /* 6.gif in Resources */,
+				B2FB51A51F9F6612003EB512 /* 3.gif in Resources */,
 				B2FB51951F9F6604003EB512 /* LaunchScreen.storyboard in Resources */,
+				B2FB51A41F9F6612003EB512 /* 2.gif in Resources */,
 				B2FB51921F9F6604003EB512 /* Assets.xcassets in Resources */,
+				B2FB51A31F9F6612003EB512 /* 1.gif in Resources */,
+				B2FB51A91F9F6612003EB512 /* 7.gif in Resources */,
 				B2FB51901F9F6604003EB512 /* Main.storyboard in Resources */,
+				B2FB51A71F9F6612003EB512 /* 5.gif in Resources */,
+				B2FB51A61F9F6612003EB512 /* 4.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
